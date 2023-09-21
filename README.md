@@ -4,8 +4,11 @@ These coding files pertain to the empirical analysis part of the paper "Talking 
 
 ### Description of the codes
 There are three parts of the codes. 
+
 Analysis Part 1 pertains to the topic modeling. It is separated into codes for the main analysis in the manuscript, and codes for supplementary analysis and validation.
+
 Analysis Part 2 pertains to the time series analysis. It is separated into codes for the main analysis in the manuscript and supplementary analysis in the appendix.
+
 Analysis Part 3 pertains to the time series analysis using Vector Autoregression (VAR) to provide another analytical approach.
 
 ### Notes for the codes
